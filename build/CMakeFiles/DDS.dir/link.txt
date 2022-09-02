@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/DDS.dir/main.cpp.o  -o DDS 
