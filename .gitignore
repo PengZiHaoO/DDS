@@ -1,3 +1,4 @@
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -46,6 +47,6 @@ _deps
 
 
 
-build
+/build
 
 [Bb][Uu][Ii][Ll][Dd]
