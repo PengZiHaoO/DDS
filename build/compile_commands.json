@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/root/projects/DDS/build",
-  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/DDS.dir/main.cpp.o -c /root/projects/DDS/main.cpp",
-  "file": "/root/projects/DDS/main.cpp"
-}
-]

@@ -1,3 +1,0 @@
-/root/projects/DDS/build/CMakeFiles/rebuild_cache.dir
-/root/projects/DDS/build/CMakeFiles/edit_cache.dir
-/root/projects/DDS/build/CMakeFiles/DDS.dir
