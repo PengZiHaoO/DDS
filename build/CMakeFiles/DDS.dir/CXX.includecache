@@ -61,6 +61,8 @@ unistd.h
 -
 
 /root/projects/DDS/main.cpp
+threadpool/threadpool.hpp
+/root/projects/DDS/threadpool/threadpool.hpp
 httprequest/httprequest.hpp
 /root/projects/DDS/httprequest/httprequest.hpp
 iostream
@@ -68,5 +70,25 @@ iostream
 vector
 -
 chrono
+-
+
+/root/projects/DDS/threadpool/threadpool.hpp
+vector
+-
+queue
+-
+memory
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+future
+-
+functional
+-
+stdexcept
 -
 

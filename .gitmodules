@@ -1,4 +1,0 @@
-[submodule "external/ThreadPool"]
-	path = external/ThreadPool
-	url = https://github.com/progschj/ThreadPool.git
-
